@@ -1,5 +1,9 @@
 # Gopher Tomcat Deployer
 
+## Video
+
+[![Video](http://img.youtube.com/vi/PQDZlYN0cAk/0.jpg)](http://www.youtube.com/watch?v=PQDZlYN0cAk "XXE to RCE with gopher")
+
 $ python gopher-tomcat-deployer.py -h
 
 ```
